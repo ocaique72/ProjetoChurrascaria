@@ -1,0 +1,21 @@
+.buttonSaberMais{
+    background-color: rgba(218, 165, 32, 0.795);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20%;
+}
+
+
+
+.buttonSaberMais:hover{
+    background-color: goldenrod;
+}
+

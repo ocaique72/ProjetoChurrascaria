@@ -1,0 +1,22 @@
+video {
+    width: 100%;
+    object-fit: cover;
+    height: 700px;
+    margin-top: 80px;
+
+}
+
+h1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Great Vibes', cursive;
+    font-size: 80px;
+    font-weight: 500;
+}
